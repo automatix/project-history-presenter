@@ -1,0 +1,75 @@
+[
+  {
+    "year": 2024,
+    "projects": [
+      {
+        "period": {
+          "start": "04/2024",
+          "end": "09/2024"
+        },
+        "project_name": "Project name A",
+        "customer": "Customer A",
+        "websites": [],
+        "project_objective": "Project Objective A ...",
+        "responsibility": "Responsibility A ...",
+        "purview": "Purview A ...",
+        "technologies": [
+          "Tech A foo",
+          "Tech A bar",
+          "Tech A buz"
+        ],
+        "team_size": {
+          "min": 5,
+          "max": 12
+        }
+      },
+      {
+        "period": {
+          "start": "2024",
+          "end": "2024"
+        },
+        "project_name": "Project name B",
+        "customer": "Customer B",
+        "websites": [],
+        "project_objective": "Project Objective B ...",
+        "responsibility": "Responsibility B ...",
+        "purview": "Purview B ...",
+        "technologies": [
+          "Tech B foo",
+          "Tech B bar",
+          "Tech B buz"
+        ],
+        "team_size": {
+          "min": 5,
+          "max": 12
+        }
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "projects": [
+      {
+        "period": {
+          "start": "04/2023",
+          "end": "09/2023"
+        },
+        "project_name": "Project name C",
+        "customer": "Customer C",
+        "websites": [],
+        "project_objective": "Project Objective C ...",
+        "responsibility": "Responsibility C ...",
+        "purview": "Purview A ...",
+        "technologies": [
+          "Tech C foo",
+          "Tech C bar",
+          "Tech C buz"
+        ],
+        "team_size": {
+          "min": 5,
+          "max": 12
+        }
+      }
+    ]
+  }
+]
