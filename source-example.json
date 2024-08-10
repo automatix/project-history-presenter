@@ -4,8 +4,8 @@
     "projects": [
       {
         "period": {
-          "start": "2023-04-01",
-          "end": "2023-04-30"
+          "start": "2024-04-01",
+          "end": "2024-04-30"
         },
         "project_name": "Project name A",
         "customer": "Customer A",
@@ -19,8 +19,8 @@
           "Tech A buz"
         ],
         "team_size": {
-          "min": 5,
-          "max": 12
+          "min": 2,
+          "max": 5
         }
       },
       {
@@ -41,7 +41,7 @@
         ],
         "team_size": {
           "min": 5,
-          "max": 12
+          "max": 5
         }
       }
     ]
@@ -66,8 +66,8 @@
           "Tech C buz"
         ],
         "team_size": {
-          "min": 5,
-          "max": 12
+          "min": 10,
+          "max": 11
         }
       }
     ]
