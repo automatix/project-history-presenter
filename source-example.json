@@ -4,8 +4,8 @@
     "projects": [
       {
         "period": {
-          "start": "04/2024",
-          "end": "09/2024"
+          "start": "2023-04-01",
+          "end": "2023-04-30"
         },
         "project_name": "Project name A",
         "customer": "Customer A",
@@ -25,8 +25,8 @@
       },
       {
         "period": {
-          "start": "2024",
-          "end": "2024"
+          "start": "2024-01-01",
+          "end": "2024-12-31"
         },
         "project_name": "Project name B",
         "customer": "Customer B",
@@ -51,8 +51,8 @@
     "projects": [
       {
         "period": {
-          "start": "04/2023",
-          "end": "09/2023"
+          "start": "2023-04-01",
+          "end": "2023-09-30"
         },
         "project_name": "Project name C",
         "customer": "Customer C",
