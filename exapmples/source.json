@@ -1,75 +1,75 @@
 [
-  {
-    "year": 2024,
-    "projects": [
-      {
-        "period": {
-          "start": "2024-04-01",
-          "end": "2024-04-30"
-        },
-        "project_name": "Project name A",
-        "customer": "Customer A",
-        "websites": [],
-        "project_objective": "Project Objective A ...",
-        "responsibility": "Responsibility A ...",
-        "purview": "Purview A ...",
-        "technologies": [
-          "Tech A foo",
-          "Tech A bar",
-          "Tech A buz"
-        ],
-        "team_size": {
-          "min": 2,
-          "max": 5
-        }
-      },
-      {
-        "period": {
-          "start": "2024-01-01",
-          "end": "2024-12-31"
-        },
-        "project_name": "Project name B",
-        "customer": "Customer B",
-        "websites": [],
-        "project_objective": "Project Objective B ...",
-        "responsibility": "Responsibility B ...",
-        "purview": "Purview B ...",
-        "technologies": [
-          "Tech B foo",
-          "Tech B bar",
-          "Tech B buz"
-        ],
-        "team_size": {
-          "min": 5,
-          "max": 5
-        }
-      }
-    ]
-  },
-  {
-    "year": 2023,
-    "projects": [
-      {
-        "period": {
-          "start": "2023-04-01",
-          "end": "2023-09-30"
-        },
-        "project_name": "Project name C",
-        "customer": "Customer C",
-        "websites": [],
-        "project_objective": "Project Objective C ...",
-        "responsibility": "Responsibility C ...",
-        "purview": "Purview A ...",
-        "technologies": [
-          "Tech C foo",
-          "Tech C bar",
-          "Tech C buz"
-        ],
-        "team_size": {
-          "min": 10,
-          "max": 11
-        }
-      }
-    ]
-  }
+    {
+        "year": 2024,
+        "projects": [
+            {
+                "period": {
+                    "start": "2024-04-01",
+                    "end": "2024-04-30"
+                },
+                "project_name": "Project name A",
+                "customer": "Customer A",
+                "websites": [],
+                "project_objective": "Project Objective A ...",
+                "responsibility": "Responsibility A ...",
+                "purview": "Purview A ...",
+                "technologies": [
+                    "Tech A foo",
+                    "Tech A bar",
+                    "Tech A buz"
+                ],
+                "team_size": {
+                    "min": 2,
+                    "max": 5
+                }
+            },
+            {
+                "period": {
+                    "start": "2024-01-01",
+                    "end": "2024-12-31"
+                },
+                "project_name": "Project name B",
+                "customer": "Customer B",
+                "websites": [],
+                "project_objective": "Project Objective B ...",
+                "responsibility": "Responsibility B ...",
+                "purview": "Purview B ...",
+                "technologies": [
+                    "Tech B foo",
+                    "Tech B bar",
+                    "Tech B buz"
+                ],
+                "team_size": {
+                    "min": 5,
+                    "max": 5
+                }
+            }
+        ]
+    },
+    {
+        "year": 2023,
+        "projects": [
+            {
+                "period": {
+                    "start": "2023-04-01",
+                    "end": "2023-09-30"
+                },
+                "project_name": "Project name C",
+                "customer": "Customer C",
+                "websites": [],
+                "project_objective": "Project Objective C ...",
+                "responsibility": "Responsibility C ...",
+                "purview": "Purview A ...",
+                "technologies": [
+                    "Tech C foo",
+                    "Tech C bar",
+                    "Tech C buz"
+                ],
+                "team_size": {
+                    "min": 10,
+                    "max": 11
+                }
+            }
+        ]
+    }
 ]
